@@ -1,0 +1,22 @@
+# ---- secrets ----
+.env
+
+# ---- archives ----
+*.tar.gz
+*.tar.txt.gz
+*.zip
+
+# ---- python ----
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# ---- node ----
+node_modules/
+dist/
+.vite/
+
+# ---- misc ----
+*.log
+.DS_Store

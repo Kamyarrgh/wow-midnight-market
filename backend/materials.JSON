@@ -1,0 +1,37 @@
+[
+  {
+    "item_id": 236770,
+    "name": "Sanguithorn",
+    "profession": "herbalism",
+    "expansion": "midnight",
+    "active": true
+  },
+  {
+    "item_id": 236774,
+    "name": "Azeroot",
+    "profession": "herbalism",
+    "expansion": "midnight",
+    "active": true
+  },
+  {
+    "item_id": 237366,
+    "name": "Dazzling Thorium",
+    "profession": "mining",
+    "expansion": "midnight",
+    "active": true
+  },
+  {
+    "item_id": 210796,
+    "name": "Mycobloom (TWW Benchmark)",
+    "profession": "herbalism",
+    "expansion": "the_war_within",
+    "active": true
+  },
+  {
+    "item_id": 210930,
+    "name": "Bismuth (TWW Benchmark)",
+    "profession": "mining",
+    "expansion": "the_war_within",
+    "active": true
+  }
+]
